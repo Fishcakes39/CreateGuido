@@ -1,0 +1,13 @@
+name = "LucceGuido"
+author = "Lucce Guido"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2058dcbb333330c65528ee66103a7c09447305f8a348dfac4bd40e2570d32591"
+
+[versions]
+forge = "47.4.18"
+minecraft = "1.20.1"

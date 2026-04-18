@@ -1,0 +1,13 @@
+name = "Create: Unify updated to Create 6"
+filename = "cutc6-1.0.0-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ac96823e26f1690285b3b20396b0d2eb7934742"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6776981
+project-id = 1308269

@@ -1,0 +1,13 @@
+name = "Stronger Skill Tree for Pufferfish's Skills"
+filename = "Stronger Skill Tree.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "1685b1b88264a33f6ff6f61331833ba967b99b274bb230866273ce403c1775c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7231954
+project-id = 1262113

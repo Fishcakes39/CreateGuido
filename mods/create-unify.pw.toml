@@ -1,0 +1,13 @@
+name = "Create: Unify"
+filename = "Create-Unify-1.20.1-1.0a.Release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0d8d35197c1db4054814236e0b9f7c54aaf44ddf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5748770
+project-id = 995593

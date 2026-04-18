@@ -1,0 +1,13 @@
+name = "Create: Curios Jetpack & Backtank"
+filename = "create_jetpack_curios-1.2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "1cc69d1cfe812d09877ddf926aa8ee7705a998029ee765acce44c5ef01d599fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5887734
+project-id = 1057194

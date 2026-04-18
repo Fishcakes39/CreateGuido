@@ -1,0 +1,13 @@
+name = "Mobs Blocker"
+filename = "mobs_blocker-1.2.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "d307a4ba01e60f946db9be0351fac99443b806c1c0024bbade8c81216ca845dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7366077
+project-id = 1002185

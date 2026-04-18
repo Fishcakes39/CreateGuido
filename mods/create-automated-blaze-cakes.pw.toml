@@ -1,0 +1,13 @@
+name = "Create: Automated Blaze Cakes"
+filename = "create_automated_blase_cakes-1.8.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8085cbee2c0c2e72f4163910d2e532c2cd570dd2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7889492
+project-id = 1165133

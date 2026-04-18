@@ -1,0 +1,13 @@
+name = "CBC: Nuclear"
+filename = "cbc_nukes-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "40a88dd938baf5b5cbfb85e44045a8aab03d9c64889747d06eead682fc2c96e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7401558
+project-id = 1060244
