@@ -1,12 +1,12 @@
-name = "LucceGuido"
-author = "Lucce Guido"
+name = "CreateGuido"
+author = "Lucce Guido 2"
 version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2058dcbb333330c65528ee66103a7c09447305f8a348dfac4bd40e2570d32591"
+hash = "a29bdcbb9530b0d99f6411e3326a2cc49961dc3c9cab53d4a4257f76d63afc9c"
 
 [versions]
 forge = "47.4.18"

@@ -651,11 +651,6 @@ hash = "b1ca65e2e4b633f363faac9ca6a6de6c79136d13705e4af8229f8cb23352e9b6"
 metafile = true
 
 [[files]]
-file = "mods/improved-mobs.pw.toml"
-hash = "9787e4a89ef2ef5b697cf35fc192fd21331a356ecd911090a3c7605aea77415c"
-metafile = true
-
-[[files]]
 file = "mods/incendium.pw.toml"
 hash = "e58295e702636ce21b69be3173b7d9c22f0558846290df8d52cb984ca3507e43"
 metafile = true
