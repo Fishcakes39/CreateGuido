@@ -3,11 +3,11 @@ filename = "fxntstorage-1.2.5+mc-1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "980000b1ec9676330fb5868ce863d4c0fc2724cd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/h6BAXuvn/versions/uLnWTKCs/fxntstorage-1.2.5%2Bmc-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "961a9f7f47352fa5bdf5e64ad7165e56ba2faca916854e9247c6fe4f359178534b53a6949a03ba6b7356f28ebd2278f5266bab9305f1def6e0cade889326506b"
 
 [update]
-[update.curseforge]
-file-id = 7915098
-project-id = 1281770
+[update.modrinth]
+mod-id = "h6BAXuvn"
+version = "uLnWTKCs"
