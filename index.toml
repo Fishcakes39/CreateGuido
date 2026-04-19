@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-interactive.pw.toml"
-hash = "d4b9674acf851d3bfefbbf25259c94c63616ad9b71b73eeb0559d04f753c3d81"
+hash = "69d316d900a3efc1981df59bd9cd9dccb763c7b780e0a9102eaa77051e8d9b1c"
 metafile = true
 
 [[files]]
