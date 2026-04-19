@@ -1,13 +1,13 @@
 name = "EnchantmentLevelBreak"
-filename = "EnchantmentLevelBreak-1.16.5-Forge-1.6.jar"
+filename = "EnchantmentLevelBreak-1.20.1-Forge-1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "03a4b129fa4ecc69359e4ee698acdb14538d0372"
+hash = "835c6a275266f16567861662025c5f30c1c69caa"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7271863
+file-id = 6802037
 project-id = 1110220

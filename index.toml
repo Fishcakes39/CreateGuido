@@ -450,6 +450,11 @@ hash = "74ce6d341a2ab7514e9d46e60ae7caaeade0e2b28b8d308cf4bb5226f2e6622e"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "7e58c4b66225f8719153ab8dbafd5973a04a0ec5bb400027cb1d6c482010d08a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "72a867977697dce084eff67f425cf91feb0928e74fe9c5b5db9769f2bc98c074"
 metafile = true
@@ -491,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantlevelbrek.pw.toml"
-hash = "cb10fdd8e99de08b9b22922122ba3dc472dee032fb527fb5636b74ab5e57cbb1"
+hash = "63770349b324110c7e60e9914ddaf86e07363fd443d58f2a4ee7e6dac613cd5a"
 metafile = true
 
 [[files]]
