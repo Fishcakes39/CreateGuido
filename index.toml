@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "gitignore.txt"
+hash = "cf237c7aff44efbe6e502e645c3e06da03a69d7bdeb43392108ef3348143417e"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "60a859d669f3fd6c1b1f23b159a3070f806c5038eccc8596a4c424852199354a"
 metafile = true
