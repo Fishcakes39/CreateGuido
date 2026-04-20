@@ -100,6 +100,11 @@ hash = "3d493ec865d9c0e321052c9567af2a7aff53e2c4394afca083a6b266f79bae91"
 metafile = true
 
 [[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "95e1e53b02444a363aef8e309fd75422bae1d8844ddf681ba8750f8e6d3e1942"
+metafile = true
+
+[[files]]
 file = "mods/better-end-cities-vanilla.pw.toml"
 hash = "91d52628607cd3360bc24cc52c963bb95136b1317bd9e3bf2b6159dcfa87573d"
 metafile = true
